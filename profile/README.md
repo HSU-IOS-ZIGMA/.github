@@ -1,4 +1,5 @@
 # Z-igma iOS
+👉 https://www.youtube.com/shorts/boQhE3Xd6c4
 
 > 약속 장소 후보를 함께 추가하고 투표로 장소를 확정하는 iOS 네이티브 앱입니다.
 
